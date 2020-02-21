@@ -4,8 +4,8 @@ import { Card, CardHeader, CardBody,
 import styled from 'styled-components';
 
 const StyledDiv = styled.div`  
-  max-width: 250px;
-  min-width: 250px;
+  max-width: 600px;
+  min-width: 600px;
   display: flex;
   flex-direction: column;
 `
